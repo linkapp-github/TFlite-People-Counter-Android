@@ -13,7 +13,7 @@ sdk/build
 samples/build/
 jks_file/
 *.rar
-yolov3.tflite
+
 org.opencv.samples.facedetect/main.3.org.opencv.samples.facedetect.obb
 LICENSE
 # Built application files
